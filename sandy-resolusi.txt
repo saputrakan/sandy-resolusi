@@ -3,4 +3,4 @@ SANDY RESOLUSI
 - Belajar github
 - Belajar java
 - Beli laptop
-- Masuk teknik informatika
+- Membuat game
